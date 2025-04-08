@@ -1,4 +1,4 @@
-// A program to categorized months having 28 days or 30 days or 31 days
+// A program to categorize months having 28 days or 30 days or 31 days
 /*
 Steps 
 1) create variable month 
